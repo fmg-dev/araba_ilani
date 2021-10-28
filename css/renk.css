@@ -1,0 +1,66 @@
+h1 {
+    color: #A9333A;
+    font-size: 20px;
+}
+
+h2 {
+    color: #2e0047;
+}
+
+.ortala {
+    margin-left: 4%
+}
+
+.menu {
+    list-style: none;
+    display: block;
+    font-size: 25px;
+    color: deeppink;
+}
+
+.menu li {
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+.logo {
+    margin-left: 45%;
+}
+
+#logo-yazi {
+    font-size: 18px;
+    margin-left: 45%;
+    color: #662424;
+}
+
+p {
+    font-size: 25px;
+    margin-left: 15%;
+    font-family: monospace;
+    color: #3f50c0;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.b-yazi {
+    font-size: 15px;
+    font-family:monospace;
+    margin-left: 75%;
+}
+
+body {
+    background-color: #916BBF;
+}
+
+.ul {
+    color: #3E065F;
+    font-size: 35px;
+}
+
+.ul-ana-sayfa {
+    color: #3E065F;
+    font-size: 35px;
+    margin-left: 35%;
+}
+
